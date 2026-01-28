@@ -3,7 +3,7 @@
 #### Hello, I am developing Yekta software as a hobby for entertainment purposes. I hope to do this as a profession in the future.
 I made this project just for fun, it allows you to create nice 
 
-Skills: C# / JAVA
+Skills: C++
 
 
 
